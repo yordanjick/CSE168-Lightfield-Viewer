@@ -1,6 +1,6 @@
 # CSE168-Lightfield-Viewer
 
-My CSE 168 project proposal is to implement a light field viewer that can take in datasets acquired from the new Stanford Light Field Archive, and render an interactive display of the light field. Once that is completed, I would hopefully try to implement some sort of compression method to make rendering the images more lightweight.
+My CSE 168 project proposal is to implement a light field viewer that can take in datasets acquired from the new Stanford Light Field Archive, and render an interactive display of the light field. Once that is completed, I would hopefully try to implement some sort of compression method to make rendering the images more lightweight. Seeing how large the datasets from the Light Field Archive are, I can the necessity of compression methods to really speed up rendering in real time and make the interactivity more responsive and smooth.
 
 ![chess_image](chess_demo.png?raw=true)
 
