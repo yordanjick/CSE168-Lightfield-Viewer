@@ -1,3 +1,4 @@
 # CSE168-Lightfield-Viewer
 WIP lightfield viewer project site
-![h](chess_demo.png?raw=true)
+![chess_image](chess_demo.png?raw=true)
+
