@@ -9,7 +9,8 @@ the mouse to change the camera position.
 Along with using the OpenGL library, it also uses the open source stb_image library in order to load in images as data.
 
 This program was created in Visual Studio, so while other compilation methods may work,
-I personally compiled and ran using VS.
+I personally compiled and ran using VS. Additionally, this must be compiled for x64 systems and with
+at least C++17, as x86 causes memory issues and the program requires some libraries only in C++17 and beyond versions.
 
 This program takes in up to 2 command line arguments, with one of them being required. The 1st argument is the
 relative path to the folder containing the light field data. For example, 'data/legos' would be a valid folder.
